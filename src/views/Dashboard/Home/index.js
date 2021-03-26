@@ -91,7 +91,9 @@ function Home() {
                   </div>
                   <div className="row mt-2">
                     <small style={{ color: "#E0E0E0" }}>{`${
-                      user.phone === null ? "Update Your Phone" : user.phone
+                      user.phone === null
+                        ? "Update Your Phone"
+                        : `+62 ${user.phone}`
                     }`}</small>
                   </div>
                 </div>
