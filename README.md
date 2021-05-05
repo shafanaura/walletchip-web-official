@@ -1,3 +1,16 @@
+![1](https://user-images.githubusercontent.com/48083931/117092322-2a31db00-ad88-11eb-91e6-b80a38a25b8e.png)
+![2](https://user-images.githubusercontent.com/48083931/117092326-2c943500-ad88-11eb-8599-dfb403cb1a32.png)
+![3](https://user-images.githubusercontent.com/48083931/117092333-2f8f2580-ad88-11eb-8b6f-f84b7cb6f175.png)
+![4](https://user-images.githubusercontent.com/48083931/117092339-3158e900-ad88-11eb-8a5d-41bcc6899f35.png)
+
+# About
+Digital wallet application that can make transactions in real time with the help of the socket.io package. There are many features available in this application such as transaction history, charts, income expense, and several others. This application has also been integrated with push notifications via Firebase. so that users will get notifications when there is an incoming transaction.
+
+# More Information
+Repo Backend : bit.ly/3mAmvvf <br/>
+Demo app : bit.ly/39Z2aLe <br/>
+Screenshot : bit.ly/2QDDHEm
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
